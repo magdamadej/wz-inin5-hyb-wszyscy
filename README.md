@@ -1,4 +1,4 @@
-# Nazwa projektu
+# Przewodnik po Europie
 Projekt "Przewodnik po Europie" stworzony na potrzeby przedmiotu "Zarządzanie projektem wdrożeniowym" na WSB Merito w Gdyni
 
 ![Podgląd projektu](img/oslo.jpg)
