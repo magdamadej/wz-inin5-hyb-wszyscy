@@ -1,0 +1,6 @@
+# Zasady współpracy
+
+- Branch: tunis-Patryk
+- Pull requesty: opisuj dokładnie zmiany
+- Commity: krótkie i opisowe
+- Nie modyfikuj cudzych plików bez zgody
