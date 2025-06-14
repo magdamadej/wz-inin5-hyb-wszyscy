@@ -1,1 +1,0 @@
-Zaliczenie przedmiotu - Zarządzanie projektem wdrożeniowym
